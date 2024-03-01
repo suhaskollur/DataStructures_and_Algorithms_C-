@@ -26,7 +26,7 @@ int findDuplicate(int arr[], int size)
 
 int main () {
 
-        int size;
+    int size;
     cin >> size;
 
     int arr[size];
